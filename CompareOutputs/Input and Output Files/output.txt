@@ -1,0 +1,399 @@
+Wins: 20
+Losses: 10
+Ties: 20
+
+Wins: 17
+Losses: 16
+Ties: 17
+
+Wins: 20
+Losses: 18
+Ties: 12
+
+Wins: 18
+Losses: 16
+Ties: 16
+
+Wins: 16
+Losses: 14
+Ties: 20
+
+Wins: 15
+Losses: 16
+Ties: 19
+
+Wins: 17
+Losses: 16
+Ties: 17
+
+Wins: 24
+Losses: 13
+Ties: 13
+
+Wins: 11
+Losses: 14
+Ties: 25
+
+Wins: 15
+Losses: 16
+Ties: 19
+
+Wins: 20
+Losses: 13
+Ties: 17
+
+Wins: 18
+Losses: 17
+Ties: 15
+
+Wins: 15
+Losses: 16
+Ties: 19
+
+Wins: 16
+Losses: 13
+Ties: 21
+
+Wins: 19
+Losses: 18
+Ties: 13
+
+Wins: 19
+Losses: 23
+Ties: 8
+
+Wins: 19
+Losses: 15
+Ties: 16
+
+Wins: 16
+Losses: 16
+Ties: 18
+
+Wins: 19
+Losses: 14
+Ties: 17
+
+Wins: 19
+Losses: 9
+Ties: 22
+
+Wins: 19
+Losses: 12
+Ties: 19
+
+Wins: 24
+Losses: 10
+Ties: 16
+
+Wins: 16
+Losses: 18
+Ties: 16
+
+Wins: 16
+Losses: 20
+Ties: 14
+
+Wins: 14
+Losses: 21
+Ties: 15
+
+Wins: 18
+Losses: 13
+Ties: 19
+
+Wins: 17
+Losses: 15
+Ties: 18
+
+Wins: 18
+Losses: 15
+Ties: 17
+
+Wins: 20
+Losses: 18
+Ties: 12
+
+Wins: 16
+Losses: 14
+Ties: 20
+
+Wins: 12
+Losses: 19
+Ties: 19
+
+Wins: 22
+Losses: 14
+Ties: 14
+
+Wins: 13
+Losses: 18
+Ties: 19
+
+Wins: 15
+Losses: 18
+Ties: 17
+
+Wins: 13
+Losses: 24
+Ties: 13
+
+Wins: 21
+Losses: 13
+Ties: 16
+
+Wins: 15
+Losses: 23
+Ties: 12
+
+Wins: 23
+Losses: 14
+Ties: 13
+
+Wins: 16
+Losses: 17
+Ties: 17
+
+Wins: 14
+Losses: 15
+Ties: 21
+
+Wins: 16
+Losses: 19
+Ties: 15
+
+Wins: 19
+Losses: 13
+Ties: 18
+
+Wins: 13
+Losses: 17
+Ties: 20
+
+Wins: 17
+Losses: 17
+Ties: 16
+
+Wins: 22
+Losses: 14
+Ties: 14
+
+Wins: 16
+Losses: 18
+Ties: 16
+
+Wins: 17
+Losses: 15
+Ties: 18
+
+Wins: 10
+Losses: 24
+Ties: 16
+
+Wins: 21
+Losses: 13
+Ties: 16
+
+Wins: 14
+Losses: 17
+Ties: 19
+
+Wins: 19
+Losses: 15
+Ties: 16
+
+Wins: 14
+Losses: 16
+Ties: 20
+
+Wins: 18
+Losses: 16
+Ties: 16
+
+Wins: 13
+Losses: 16
+Ties: 21
+
+Wins: 17
+Losses: 14
+Ties: 19
+
+Wins: 20
+Losses: 18
+Ties: 12
+
+Wins: 13
+Losses: 21
+Ties: 16
+
+Wins: 19
+Losses: 13
+Ties: 18
+
+Wins: 17
+Losses: 19
+Ties: 14
+
+Wins: 15
+Losses: 17
+Ties: 18
+
+Wins: 9
+Losses: 13
+Ties: 28
+
+Wins: 18
+Losses: 18
+Ties: 14
+
+Wins: 12
+Losses: 24
+Ties: 14
+
+Wins: 20
+Losses: 15
+Ties: 15
+
+Wins: 14
+Losses: 20
+Ties: 16
+
+Wins: 20
+Losses: 17
+Ties: 13
+
+Wins: 15
+Losses: 23
+Ties: 12
+
+Wins: 16
+Losses: 18
+Ties: 16
+
+Wins: 17
+Losses: 15
+Ties: 18
+
+Wins: 11
+Losses: 18
+Ties: 21
+
+Wins: 18
+Losses: 14
+Ties: 18
+
+Wins: 15
+Losses: 15
+Ties: 20
+
+Wins: 11
+Losses: 23
+Ties: 16
+
+Wins: 12
+Losses: 16
+Ties: 22
+
+Wins: 16
+Losses: 11
+Ties: 23
+
+Wins: 14
+Losses: 18
+Ties: 18
+
+Wins: 10
+Losses: 17
+Ties: 23
+
+Wins: 15
+Losses: 16
+Ties: 19
+
+Wins: 18
+Losses: 19
+Ties: 13
+
+Wins: 22
+Losses: 18
+Ties: 10
+
+Wins: 15
+Losses: 15
+Ties: 20
+
+Wins: 17
+Losses: 18
+Ties: 15
+
+Wins: 10
+Losses: 26
+Ties: 14
+
+Wins: 20
+Losses: 10
+Ties: 20
+
+Wins: 16
+Losses: 20
+Ties: 14
+
+Wins: 21
+Losses: 14
+Ties: 15
+
+Wins: 16
+Losses: 15
+Ties: 19
+
+Wins: 22
+Losses: 14
+Ties: 14
+
+Wins: 18
+Losses: 18
+Ties: 14
+
+Wins: 11
+Losses: 18
+Ties: 21
+
+Wins: 11
+Losses: 15
+Ties: 24
+
+Wins: 22
+Losses: 13
+Ties: 15
+
+Wins: 16
+Losses: 17
+Ties: 17
+
+Wins: 21
+Losses: 18
+Ties: 11
+
+Wins: 15
+Losses: 21
+Ties: 14
+
+Wins: 20
+Losses: 19
+Ties: 11
+
+Wins: 20
+Losses: 16
+Ties: 14
+
+Wins: 21
+Losses: 19
+Ties: 10
+
+Wins: 13
+Losses: 17
+Ties: 20
+
+Wins: 15
+Losses: 21
+Ties: 14
